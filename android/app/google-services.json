@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547342909947",
+    "firebase_url": "https://gardening-app-87c91-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gardening-app-87c91",
+    "storage_bucket": "gardening-app-87c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547342909947:android:071c03ba873cc7d9fc4b5e",
+        "android_client_info": {
+          "package_name": "com.example.gardening_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547342909947-grglkuho41q4vusg5lg4gt28s8n345b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpAjJ-8HRezExOypzd4JXskY-dZcaBvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547342909947-grglkuho41q4vusg5lg4gt28s8n345b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
